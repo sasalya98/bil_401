@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1753111431097,"sparkVersion":"3.5.5","uid":"StringIndexer_c2f919a22b70","paramMap":{"inputCol":"Street_Cleaned","outputCol":"Street_Cleaned_Idx","handleInvalid":"keep"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_c2f919a22b70__output","handleInvalid":"error"}}
